@@ -1,0 +1,7 @@
+###> gfi-centre-ouest/docker-devbox ###
+docker-compose.yml
+.bash_enter
+.bash_leave
+.certs/pgadmin.test.key
+.certs/pgadmin.test.crt
+###< gfi-centre-ouest/docker-devbox ###

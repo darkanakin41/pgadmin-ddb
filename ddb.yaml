@@ -1,0 +1,5 @@
+core:
+  domain:
+    sub: pgadmin
+docker:
+  restart_policy: unless-stopped
